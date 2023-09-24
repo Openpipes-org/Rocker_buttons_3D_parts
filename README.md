@@ -7,4 +7,6 @@
 <hr>
 Go to the <a href="https://www.thingiverse.com/thing:4923429">Thingverse project page</a>
 <hr>
+Download the last 3D-parts files (.stl) in the <a href="https://github.com/Openpipes-org/Rocker_buttons_3D_parts/releases">releases</a> section.
+<hr>
 ⚠️ Under construction
